@@ -1,6 +1,6 @@
 {
-  "homepage": "https://wilianmorimoto.github.io/react-tela-login",
-	"name": "react-tela-login",
+  "homepage": "https://wilianmorimoto.github.io/tela-login",
+	"name": "tela-login",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
